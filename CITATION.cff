@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: If you use this dataset, please cite the paper below.
+title: "Borrat Teacher-Occlusion Dataset"
+version: "1.0"
+date-released: 2026-08-17
+authors:
+  - family-names: Liang
+    given-names: Zhanhua
+  - family-names: Wei
+    given-names: Zhengyuan
+preferred-citation:
+  type: conference-paper
+  title: "Borrat: An Infrastructure for Blackboard Occlusion Removal and Restoration for AI Tutoring"
+  authors:
+    - family-names: Liang
+      given-names: Zhanhua
+    - family-names: Wei
+      given-names: Zhengyuan
+  year: 2026
+  collection-title: "Proceedings of the 34th International Conference on Computers in Education"
+  publisher: "Asia-Pacific Society for Computers in Education"
+  identifiers:
+    - type: url
+      value: "https://github.com/MatrixLeung/Borrat-Teacher-Occlusion-Dataset"
